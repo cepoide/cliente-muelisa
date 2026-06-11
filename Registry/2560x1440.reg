@@ -5,5 +5,5 @@ REGEDIT4
 [HKEY_CURRENT_USER\Software\Webzen\Mu]
 
 [HKEY_CURRENT_USER\Software\Webzen\Mu\Config]
-"Resolution"=dword:0000000A
-"ResolutionA"=dword:0000000A
+"Resolution"=dword:00000008
+"ResolutionA"=dword:00000008
