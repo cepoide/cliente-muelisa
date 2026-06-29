@@ -4,9 +4,10 @@ config.ini
 PacketList.txt
 wsctlc.log
 ScreenShots/*.jpg
-Data/Interface/*.jpg
-Data/Interface/*.png
-Data/Interface/*.tga
-Data/Local/Eng/item_eng.bmd.bak
-Data/Local/Por/item_por.bmd.bak
-Data/Local/Spn/item_spn.bmd.bak
+
+
+**/**/**/*.bak
+**/**/*.bak
+**/**/*.jpg
+**/**/*.tga
+**/**/*.png
